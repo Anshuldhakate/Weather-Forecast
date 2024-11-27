@@ -3,7 +3,7 @@
 This is a simple web application built with React.js that allows users to view the current weather and weather forecast for selected cities. The app fetches data from the OpenWeather API and displays the weather information with a clean and responsive design.
 
 ## Deployment Link-
-
+https://sparkly-travesseiro-8d7f55.netlify.app
 
 
 <img width="432" alt="Screenshot 2024-11-18 153722" src="https://github.com/user-attachments/assets/7f233af4-5c6c-42bc-acfb-3ec4df7c96bc">
