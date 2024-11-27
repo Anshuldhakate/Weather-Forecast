@@ -1,0 +1,60 @@
+/* WeatherCard.css */
+
+/* Individual weather card styling */
+.weather-card {
+    background-color: #e8f4f8;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 200px;
+    height: auto;
+  }
+  
+  .weather-card h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .weather-card img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+  }
+  
+  .weather-card p {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 5px 0;
+  }
+  
+  .weather-card .temperature {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .weather-card {
+      width: 150px;
+      padding: 10px;
+    }
+  
+    .weather-card img {
+      width: 60px;
+      height: 60px;
+    }
+  
+    .weather-card h2 {
+      font-size: 1.2rem;
+    }
+  
+    .weather-card p {
+      font-size: 1rem;
+    }
+  }
+  
